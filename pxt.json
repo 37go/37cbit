@@ -1,7 +1,7 @@
 {
     "name": "cBit",
     "version": "1.1.0",
-    "description": "Extension for ZYRobot micro:bit",
+    "description": "Extension for 37梦想 micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
